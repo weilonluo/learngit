@@ -1,8 +1,3 @@
 okokanyway
 okokanywayx2
-<<<<<<< HEAD
-creating a new branch is quick and simple
-=======
-creating a new branch is quick and simple
->>>>>>> feature1
-helloneibor!
+creating a new branch is quick
